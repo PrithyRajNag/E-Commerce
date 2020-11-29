@@ -125,13 +125,13 @@ body{
 }
 .menu ul li a{
   text-decoration: none;
-  color: black;
+  color: #fff;
   font-size: 18px;
   font-weight: normal;
 }
 .menu ul li a.active{
   padding-bottom: 4px;
-  border-bottom: 3px solid black;
+  border-bottom: 3px solid #fff;
 }
 /* Start of Hamburger*/
 .bar{
@@ -142,7 +142,7 @@ body{
   width:27px;
   height: 2px;
   margin-bottom: 6px;
-  background-color: black;
+  background-color: #fff;
 }
 #sidebar a,
 #sidebar a:hover,
